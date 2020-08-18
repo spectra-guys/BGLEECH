@@ -14,9 +14,8 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/SpEcHiDe/PublicLeech",
-  "website": "https://github.com/SpEcHiDe/PublicLeech",
-  "logo": "https://telegra.ph/file/8b973b270f4f380a427b1.png",
+  "repository": "https://github.com/spectra-guys/BGLEECH",
+  "website": "https://github.com/spectra-guys/BGLEECH",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
